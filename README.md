@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mohideenabdulcader
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @mohideen
+- 👀 I’m interested in ... AI/ML
 - 🌱 I’m currently learning Cloud Infrastructure and ML
 - 💞️ I’m looking to collaborate on Cloud, AI & ML
 - 📫 How to reach me mohideen.hajamohideen@outlook.com
